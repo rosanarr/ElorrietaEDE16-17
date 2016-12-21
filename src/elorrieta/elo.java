@@ -5,6 +5,7 @@ public class elo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 int mama=0;
+int papa=0;
 	}
 
 }
